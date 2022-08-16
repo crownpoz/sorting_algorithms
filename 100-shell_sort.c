@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * knuth_gap - gets the gap size for the sort
  * @size: size of array
